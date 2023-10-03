@@ -1,4 +1,4 @@
-# Demo Calculator Python (TCP)
+# Demo Calculator Python (TCP) [Async]
 
 ![Screenshot](/img/screen.png)
 
